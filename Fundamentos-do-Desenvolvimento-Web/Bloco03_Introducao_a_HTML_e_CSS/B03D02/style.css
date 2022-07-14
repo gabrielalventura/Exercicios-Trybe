@@ -1,0 +1,29 @@
+h1{
+    width: 65px;
+    color: orangered;
+    font-family: sans-serif;
+}
+.NA{
+    background-color: rgb(217, 214, 219);
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+body{
+    font-size: 16px;
+    font-style: oblique;
+    line-height: 25px;
+    text-align: center;
+    text-decoration:underline;
+    background-color: rgb(217, 214, 219);
+}
+#YE {
+    background-color: yellow;
+}
+#RE{
+    background-color: red;
+}
+#BR{
+    background-color: brown;
+}
