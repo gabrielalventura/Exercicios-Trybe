@@ -4,20 +4,25 @@ body{
 h3:hover{
     border-style: solid;
     border-color: purple;
-    border-width: 15px;
+    border-width: 10px;
 }
 div:nth-of-type(1){
     color: red;
+    text-decoration: underline;
 }
 div:nth-of-type(2){
     color: orange;
+    background-color: aliceblue;
 }
 div:nth-of-type(3){
     color: green;
+    text-decoration: line-through;
 }
 div:nth-of-type(4){
     color:black;
+    background-color: blanchedalmond;
 }
 div:nth-of-type(5){
     color:beige;
+    text-decoration-line: overline;
 }
