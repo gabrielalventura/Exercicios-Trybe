@@ -27,9 +27,7 @@
   border-width: 5px;
   border-color: black;
   }
-  #B{
+  #A,#B{
     float:left;
   }
-  #A{
-    float: left;
-  }
+ 
