@@ -1,10 +1,10 @@
 *{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Monserrat';
 } 
 h1, p{
     text-align: center;
 }
 li:hover{
     background-color: darkorchid;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Dancing Script';
 }
