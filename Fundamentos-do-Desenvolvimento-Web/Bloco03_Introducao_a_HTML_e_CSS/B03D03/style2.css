@@ -8,3 +8,6 @@ li:hover{
     background-color: darkorchid;
     font-family: 'Dancing Script';
 }
+ul, ol{
+    list-style: none;
+}
