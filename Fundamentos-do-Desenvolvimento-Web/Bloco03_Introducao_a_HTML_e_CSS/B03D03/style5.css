@@ -14,3 +14,9 @@ h1{
     font-size: 40px;
     border: 1px solid black;
 }
+li{
+    font-size: 20px;
+}
+.italico{
+    font-weight: bold;
+}
