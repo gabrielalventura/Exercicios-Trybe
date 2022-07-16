@@ -20,3 +20,9 @@ li{
 .italico{
     font-weight: bold;
 }
+.TP{
+    color:blue;
+}
+.palavra{
+    background-color: pink;
+}
