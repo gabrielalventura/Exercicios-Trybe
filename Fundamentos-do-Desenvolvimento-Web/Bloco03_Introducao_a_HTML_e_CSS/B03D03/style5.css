@@ -26,3 +26,23 @@ li{
 .palavra{
     background-color: pink;
 }
+.over:hover{
+    font-weight: bold;
+    color: orange;
+}
+.w3s:hover{
+    font-weight: bold;
+    color: green;  
+}
+.mdn:hover{
+    font-weight: bold;
+    color: black;
+}
+.dev:hover{
+    font-weight: bold;
+    color: yellow
+}
+.trybe:hover{
+    font-weight: bold;
+    color: darkgreen;
+}
