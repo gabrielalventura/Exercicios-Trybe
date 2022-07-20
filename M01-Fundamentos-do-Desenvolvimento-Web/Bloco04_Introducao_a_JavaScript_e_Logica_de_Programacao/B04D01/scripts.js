@@ -47,3 +47,11 @@ else{
 }
 console.log(message);
 // fim do exercicio de fixação 4
+// inicio do exercicio de fixação 5
+let weekDay = "sábado";
+if(weekDay ==="segunda-feira" || weekDay === "terça-feira" || weekDay === "quarta-feira" || weekDay === "quinta-feira" || weekDay === "sexta feira"){
+  console.log("Oba, mais um dia de aprendizado na Trybe >:D")
+}
+else{
+  console.log("FINALMENTE, descanso merecido UwU.")
+}
