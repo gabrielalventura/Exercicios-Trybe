@@ -67,4 +67,4 @@ switch (pessoaCandidata) {
     break;
   default: console.log("não se aplica.");
 }
-
+// fim do exercicio de fixação 6
