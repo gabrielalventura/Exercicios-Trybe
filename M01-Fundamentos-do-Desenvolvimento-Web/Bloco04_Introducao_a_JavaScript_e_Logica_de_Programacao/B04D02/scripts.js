@@ -51,3 +51,8 @@ for (let index = 1; index <= 25; index += 1){
   newArray.push(index);
 }
 console.log(newArray);
+//exercício 9
+for(number of newArray){
+  result = number/2
+  console.log(result);
+}
